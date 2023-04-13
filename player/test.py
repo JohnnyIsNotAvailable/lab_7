@@ -66,4 +66,4 @@ while 1:
                 sounds[sound_index].placePhoto(screen)
 
         
-    pg.display.flip()
+    pg.display.flip() 
